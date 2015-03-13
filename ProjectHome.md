@@ -1,0 +1,1 @@
+Maven project archetype, used to create a basic maven-based add-ons for Automated Logic Controls WebCTRL product.
